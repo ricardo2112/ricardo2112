@@ -13,21 +13,20 @@
   </td>
 </table>
 
-
 ## About me
 ### 🧠 Know
 <div align="left">  
-  <a><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Bootstrap" height="70" /></a>      
-  <a><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="React" height="70" /></a>
-  <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>
-  <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>  
-  <a><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70" /></a>
+  <a><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Bootstrap" height="70"></a> &nbsp;&nbsp;&nbsp;
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="React" height="70"></a>&nbsp;&nbsp;
+  <a><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70"></a>
+  <a><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70"></a>&nbsp;
+  <a><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70"></a>
 </div>
 
 ### 📚 Learning
 <div align="left">  
-  <a><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-python-3628999-3030224.png?f=webp&w=256" alt="Bootstrap" height="70" /></a>  
-  <a><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="HTML5" height="70" /></a>  
+  <a><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-python-3628999-3030224.png?f=webp&w=256" alt="Bootstrap" height="70" /></a>&nbsp;&nbsp;
+  <a><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="HTML5" height="70" /></a>&nbsp;
   <a><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="Tailwind CSS" height="70" /></a> 
 </div>
 <!--
